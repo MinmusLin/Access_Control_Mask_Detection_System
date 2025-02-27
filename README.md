@@ -1,14 +1,14 @@
-# Mask Wearing Detection Based on Ultralytics
+# Access Control Mask Detection System
 
 ## 项目名称
 
-Mask_Wearing_Detection_Based_on_Ultralytics
+Access_Control_Mask_Detection_System
 
 ## 项目简介
 
-A project of mask-wearing detection based on Ultralytics.
+Access control mask detection system.
 
-基于 Ultralytics 的口罩佩戴检测项目。
+门禁检测口罩佩戴系统。
 
 > ***Relevant project***
 > * 同济大学2023年大学生创新创业训练计划项目
@@ -111,4 +111,4 @@ This project can be applied to campuses, stations, and other scenarios with high
 
 ## 文档更新日期
 
-2024年9月2日
+2025年2月27日
