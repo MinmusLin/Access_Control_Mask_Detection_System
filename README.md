@@ -51,9 +51,6 @@ Access control mask detection system.
 * [Final Defense](20240322_Final_Defense.pptx)
 项目结题答辩
 
-* [SITP Acceptance Results Announcement](20240323_SITP_Acceptance_Results_Announcement.pdf)
-2024年电子与信息工程学院大学生创新训练项目结题验收结果公示
-
 * [Certificate](Certificate.pdf)
 校级大学生创新创业训练计划结题证书
 
